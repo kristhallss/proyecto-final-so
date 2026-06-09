@@ -1,13 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Proyecto Final</title>
+<title > Proyecto Docker </title >
 </head>
 <body>
-
-  <h1>Proyecto Final - Sistemas Operativos</h1>
-
-  <p>https://kristhallss.github.io/proyecto-final-so/.</p>
-
+<h1> Nginx Funcionando en Docker < /h1>
+<p> Entrega 1 -Docker -compose
+</p>
 </body>
-</html>
+</html/>
