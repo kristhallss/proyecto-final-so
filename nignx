@@ -1,13 +1,78 @@
-[index.html](https://github.com/user-attachments/files/28761713/index.html)
-
 <!DOCTYPE html>
-<html>
+<html lang="es">
 <head>
-<title > Proyecto Docker </title >
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Frontend Activo</title>
+
+    <style>
+        body{
+            margin:0;
+            font-family: Arial, sans-serif;
+            background:#3f5f9a;
+            color:white;
+            text-align:center;
+        }
+
+        .container{
+            max-width:800px;
+            margin:auto;
+            padding:30px;
+        }
+
+        .card{
+            background:rgba(255,255,255,0.15);
+            border-radius:15px;
+            padding:25px;
+            margin:25px 0;
+        }
+
+        .status{
+            display:inline-block;
+            background:#4CAF50;
+            padding:12px 25px;
+            border-radius:25px;
+            font-weight:bold;
+        }
+
+        .code{
+            background:#34495e;
+            color:gold;
+            padding:3px 8px;
+            border-radius:5px;
+        }
+    </style>
 </head>
+
 <body>
-<h1> Nginx Funcionando en Docker < /h1>
-<p> Entrega 1 -Docker -compose
-</p>
+
+    <div class="container">
+
+        <h1>🚀 Frontend Activo</h1>
+        <h2>Proyecto Final — Arquitecto Cloud</h2>
+
+        <div class="card">
+            <h3>Componente 2: Contenedores Docker</h3>
+            <p><strong>Servicio:</strong> Nginx (Frontend)</p>
+            <p><strong>Puerto:</strong> 80</p>
+        </div>
+
+        <br>
+
+        <span class="status">✓ FUNCIONANDO</span>
+
+        <div class="card">
+            <p><strong>Grupo:</strong> <span class="code">4</span></p>
+
+            <p><strong>Distribución:</strong> <span class="code">Ubuntu</span></p>
+
+            <p><strong>Imagen Docker:</strong> <span class="code">ubuntu:24.04</span></p>
+        </div>
+
+        <p>Sistemas Operativos 750001C</p>
+        <p>Universidad del Valle - Semestre 1-2026</p>
+
+    </div>
+
 </body>
-</html/>
+</html>
