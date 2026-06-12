@@ -14,4 +14,4 @@ Este proyecto documenta la implementación integral de un sistema basado en Linu
 ## Componente 1: Virtualización con Linux
 En esta etapa, se realizó la infraestructura base mediante la virtualización de dos nodos en VirtualBox.
 
-[📋 Ver reporte PDF](evidencias.pdf).
+[📋 Ver reporte PDF](evidencias1.pdf).
